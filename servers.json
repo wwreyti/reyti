@@ -1,0 +1,11 @@
+
+[
+    {
+      "ip": "185.189.255.97",
+      "port": 1293,
+      "x2": false,
+      "name": "Reytitest",
+      "online": 1,
+      "maxonline": 100
+    }
+ ]

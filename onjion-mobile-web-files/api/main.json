@@ -1,10 +1,10 @@
 {
-	"servers": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Faq.php?edgar=1829top09",
-	"createCharacter": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/IsAcc.php?edgar=1829top09",
-    "skinsCDN": "https://triomshors.ru/matrp-zakaz-edgar/api/images/skin_"
+	"servers": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/images/skin_"
 }

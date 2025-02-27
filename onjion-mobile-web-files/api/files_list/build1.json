@@ -1,0 +1,2270 @@
+[
+  {
+    "hash": "4fea0c691e92be0840a634387d40f2c1",
+    "name": "stream.ini",
+    "path": "/storage/emulated/0/Edgar/stream.ini",
+    "size": "199",
+    "url": "https://cdn-space.spacerp.ru/files/build1/stream.ini"
+  },
+  {
+    "hash": "5f5a7efdad08941b845e244508426946",
+    "name": "version.txt",
+    "path": "/storage/emulated/0/Edgar/version.txt",
+    "size": "227",
+    "url": "https://cdn-space.spacerp.ru/files/build1/version.txt"
+  },
+  {
+    "hash": "090a8f0e910eaf3f4694882020fe8b96",
+    "name": "anim.img",
+    "path": "/storage/emulated/0/Edgar/anim/anim.img",
+    "size": "10942464",
+    "url": "https://cdn-space.spacerp.ru/files/build1/anim/anim.img"
+  },
+  {
+    "hash": "e2a2453c842476efc805b6323ea50f06",
+    "name": "cuts.img",
+    "path": "/storage/emulated/0/Edgar/anim/cuts.img",
+    "size": "16029696",
+    "url": "https://cdn-space.spacerp.ru/files/build1/anim/cuts.img"
+  },
+  {
+    "hash": "fc00eba91b3dd55cc1af3466257931cd",
+    "name": "ped.ifp",
+    "path": "/storage/emulated/0/Edgar/anim/ped.ifp",
+    "size": "1433248",
+    "url": "https://cdn-space.spacerp.ru/files/build1/anim/ped.ifp"
+  },
+  {
+    "hash": "c3c93a6a871d0ebfd9342c12efdd9a06",
+    "name": "AudioEventHistory.txt",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/AudioEventHistory.txt",
+    "size": "114056",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/AudioEventHistory.txt"
+  },
+  {
+    "hash": "8868bb058981e09c5404c06b1bd02023",
+    "name": "BankLkup.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/BankLkup.dat",
+    "size": "8520",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/BankLkup.dat"
+  },
+  {
+    "hash": "eec1ee0ba8bea1b3f219cf7eb5756b15",
+    "name": "BankSlot.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/BankSlot.dat",
+    "size": "216902",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/BankSlot.dat"
+  },
+  {
+    "hash": "a601ef86011f40d3a84fe340d92a39b1",
+    "name": "EventVol.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/EventVol.dat",
+    "size": "45402",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/EventVol.dat"
+  },
+  {
+    "hash": "2ffb267601a59002deb38b828781152f",
+    "name": "PakFiles.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/PakFiles.dat",
+    "size": "468",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/PakFiles.dat"
+  },
+  {
+    "hash": "cdd034a60d8cf50b77cc9fdaaa4371b5",
+    "name": "SOUNDINF.DAT",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/SOUNDINF.DAT",
+    "size": "746760",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/SOUNDINF.DAT"
+  },
+  {
+    "hash": "9b757f4693ad5730b2c19e4c38b48c15",
+    "name": "StrmPaks.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/StrmPaks.dat",
+    "size": "272",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/StrmPaks.dat"
+  },
+  {
+    "hash": "d4f00ca60e810720ac259aa9e8313a0e",
+    "name": "TrakLkup.dat",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/TrakLkup.dat",
+    "size": "23064",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/TrakLkup.dat"
+  },
+  {
+    "hash": "0db213ffb091dfead50cf0cc952fdcff",
+    "name": "TRKHEAD.DAT",
+    "path": "/storage/emulated/0/Edgar/audio/CONFIG/TRKHEAD.DAT",
+    "size": "15506696",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/CONFIG/TRKHEAD.DAT"
+  },
+  {
+    "hash": "b57e0a79c47765308cb44df566b84869",
+    "name": "FEET.osw",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/FEET.osw",
+    "size": "138118",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/FEET.osw"
+  },
+  {
+    "hash": "53e5f7f90632e324084788aac6949d25",
+    "name": "FEET.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/FEET.osw.idx",
+    "size": "1220",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/FEET.osw.idx"
+  },
+  {
+    "hash": "794cb0ea278b6fdf92884df9174a5f0e",
+    "name": "GENRL.osw",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/GENRL.osw",
+    "size": "9362373",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/GENRL.osw"
+  },
+  {
+    "hash": "e0d49f1a94e4df232d97fc0ec976bdfb",
+    "name": "GENRL.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/GENRL.osw.idx",
+    "size": "20868",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/GENRL.osw.idx"
+  },
+  {
+    "hash": "28c48425c95dbec21c39bb70514ca233",
+    "name": "PAIN_A.osw",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/PAIN_A.osw",
+    "size": "3247335",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/PAIN_A.osw"
+  },
+  {
+    "hash": "21d16b285326e7ea7bee58d8c8be6732",
+    "name": "PAIN_A.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/SFX/PAIN_A.osw.idx",
+    "size": "12836",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/SFX/PAIN_A.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "AA.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/AA.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/AA.osw"
+  },
+  {
+    "hash": "b842d94ba542cf101d740c074d107da8",
+    "name": "AA.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/AA.osw.idx",
+    "size": "1522",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/AA.osw.idx"
+  },
+  {
+    "hash": "77e22d750cf06b844696924e8df1b3c2",
+    "name": "ADVERTS.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/ADVERTS.osw",
+    "size": "3516982",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/ADVERTS.osw"
+  },
+  {
+    "hash": "0977fca05c7ea473a879cf4832ec0b1b",
+    "name": "ADVERTS.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/ADVERTS.osw.idx",
+    "size": "1591",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/ADVERTS.osw.idx"
+  },
+  {
+    "hash": "b82d853d3251b48bd946e56fc26b8125",
+    "name": "AMBIENCE.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/AMBIENCE.osw",
+    "size": "22719112",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/AMBIENCE.osw"
+  },
+  {
+    "hash": "b67e993c7962290a606ac9ba50d448f5",
+    "name": "AMBIENCE.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/AMBIENCE.osw.idx",
+    "size": "924",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/AMBIENCE.osw.idx"
+  },
+  {
+    "hash": "a263925917d340d20b3557fc3d2c8f00",
+    "name": "BEATS.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/BEATS.osw",
+    "size": "9415375",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/BEATS.osw"
+  },
+  {
+    "hash": "e286e3cfe53078537b595cea26fc2f89",
+    "name": "BEATS.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/BEATS.osw.idx",
+    "size": "234",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/BEATS.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "CH.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CH.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CH.osw"
+  },
+  {
+    "hash": "a64aef2deda1ede7712695c964806952",
+    "name": "CH.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CH.osw.idx",
+    "size": "2994",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CH.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "CO.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CO.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CO.osw"
+  },
+  {
+    "hash": "be60300e510cda14e7a1001a288da84f",
+    "name": "CO.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CO.osw.idx",
+    "size": "3569",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CO.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "CR.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CR.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CR.osw"
+  },
+  {
+    "hash": "a73d194e49eea08d089c0c8089f4d6a9",
+    "name": "CR.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CR.osw.idx",
+    "size": "3592",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CR.osw.idx"
+  },
+  {
+    "hash": "1449c2c305a8d4b87f11a35b84e66607",
+    "name": "CUTSCENE.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CUTSCENE.osw",
+    "size": "301175",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CUTSCENE.osw"
+  },
+  {
+    "hash": "50f00653bfbbb58f381b9b0f5bf38e2f",
+    "name": "CUTSCENE.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/CUTSCENE.osw.idx",
+    "size": "3247",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/CUTSCENE.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "DS.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/DS.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/DS.osw"
+  },
+  {
+    "hash": "9f438c5604d15c541bc207d120c5a565",
+    "name": "DS.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/DS.osw.idx",
+    "size": "4121",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/DS.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "HC.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/HC.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/HC.osw"
+  },
+  {
+    "hash": "97b6bd83c2d16ed5baa1b78510f37839",
+    "name": "HC.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/HC.osw.idx",
+    "size": "2649",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/HC.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "MH.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/MH.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/MH.osw"
+  },
+  {
+    "hash": "44eb730cf6312ad27ac2fb252a0b295b",
+    "name": "MH.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/MH.osw.idx",
+    "size": "3500",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/MH.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "MR.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/MR.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/MR.osw"
+  },
+  {
+    "hash": "0c6618261d3a913d79ec9bf00509dd3f",
+    "name": "MR.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/MR.osw.idx",
+    "size": "3385",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/MR.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "NJ.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/NJ.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/NJ.osw"
+  },
+  {
+    "hash": "081eee5c33cfede7f1af31898c7149c9",
+    "name": "NJ.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/NJ.osw.idx",
+    "size": "2994",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/NJ.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "RE.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/RE.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/RE.osw"
+  },
+  {
+    "hash": "b9b5c3722662f3e81ecf8519af237c75",
+    "name": "RE.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/RE.osw.idx",
+    "size": "3707",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/RE.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "RG.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/RG.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/RG.osw"
+  },
+  {
+    "hash": "44f3800b8485ee8935b0f2daceaabb19",
+    "name": "RG.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/RG.osw.idx",
+    "size": "3914",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/RG.osw.idx"
+  },
+  {
+    "hash": "90ccd0553cc6dc66a4e5af61eb6e0569",
+    "name": "TK.osw",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/TK.osw",
+    "size": "15462",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/TK.osw"
+  },
+  {
+    "hash": "02382aae783888c72dbb9448117f1288",
+    "name": "TK.osw.idx",
+    "path": "/storage/emulated/0/Edgar/audio/STREAMS/TK.osw.idx",
+    "size": "2327",
+    "url": "https://cdn-space.spacerp.ru/files/build1/audio/STREAMS/TK.osw.idx"
+  },
+  {
+    "hash": "d8b32685618f1b8d6edd664e365522f4",
+    "name": "360Default1280x720.cfg",
+    "path": "/storage/emulated/0/Edgar/data/360Default1280x720.cfg",
+    "size": "10898",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/360Default1280x720.cfg"
+  },
+  {
+    "hash": "f4e7d2a74faf43ea7e9126bdc3848155",
+    "name": "360Default960x720.cfg",
+    "path": "/storage/emulated/0/Edgar/data/360Default960x720.cfg",
+    "size": "10888",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/360Default960x720.cfg"
+  },
+  {
+    "hash": "74fc6d843bca0eacbdf539e14a96dd40",
+    "name": "animgrp.dat",
+    "path": "/storage/emulated/0/Edgar/data/animgrp.dat",
+    "size": "3096",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/animgrp.dat"
+  },
+  {
+    "hash": "81b56be142c00908322f339267ca7351",
+    "name": "ar_stats.dat",
+    "path": "/storage/emulated/0/Edgar/data/ar_stats.dat",
+    "size": "3593",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/ar_stats.dat"
+  },
+  {
+    "hash": "dc0e933b11c91943fd8e75be19902aa7",
+    "name": "carcols.dat",
+    "path": "/storage/emulated/0/Edgar/data/carcols.dat",
+    "size": "15361",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/carcols.dat"
+  },
+  {
+    "hash": "198bfcb6f095cffd3612526b6202fe45",
+    "name": "cargrp.dat",
+    "path": "/storage/emulated/0/Edgar/data/cargrp.dat",
+    "size": "3909",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/cargrp.dat"
+  },
+  {
+    "hash": "ebfb476fdd33c8317b370dacc5508dce",
+    "name": "carmods.dat",
+    "path": "/storage/emulated/0/Edgar/data/carmods.dat",
+    "size": "8763",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/carmods.dat"
+  },
+  {
+    "hash": "3578b72ef11268e988924119c2823e32",
+    "name": "clothes.dat",
+    "path": "/storage/emulated/0/Edgar/data/clothes.dat",
+    "size": "5317",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/clothes.dat"
+  },
+  {
+    "hash": "cd3bbfed7cfc947d5daf042bdf6e5bc5",
+    "name": "colorcycle-1.dat",
+    "path": "/storage/emulated/0/Edgar/data/colorcycle-1.dat",
+    "size": "14903",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/colorcycle-1.dat"
+  },
+  {
+    "hash": "8ca7c84213b023029442860d1f08ea3d",
+    "name": "colorcycle.dat",
+    "path": "/storage/emulated/0/Edgar/data/colorcycle.dat",
+    "size": "14555",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/colorcycle.dat"
+  },
+  {
+    "hash": "a21a863d200b8993fa0b3a512554e317",
+    "name": "ctimecy.dat",
+    "path": "/storage/emulated/0/Edgar/data/ctimecy.dat",
+    "size": "38670",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/ctimecy.dat"
+  },
+  {
+    "hash": "ba0cbdda246b7a508a2ede32694dfd17",
+    "name": "Cop.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/Cop.ped",
+    "size": "4908",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/Cop.ped"
+  },
+  {
+    "hash": "ce2f343c1cf95ed9f0baa24ca5dbbbd4",
+    "name": "Fireman.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/Fireman.ped",
+    "size": "4435",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/Fireman.ped"
+  },
+  {
+    "hash": "4ecee7c4b8e4e3bb11c56f6ad5713548",
+    "name": "GangMbr.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/GangMbr.ped",
+    "size": "6194",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/GangMbr.ped"
+  },
+  {
+    "hash": "beea31ff300da00889f32eea4c999ced",
+    "name": "Indoors.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/Indoors.ped",
+    "size": "2809",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/Indoors.ped"
+  },
+  {
+    "hash": "4ea179b7bde2ba021165dbc1dbbc6d45",
+    "name": "MISSION.grp",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/MISSION.grp",
+    "size": "2758",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/MISSION.grp"
+  },
+  {
+    "hash": "768d179b44b87a6ccefb83362030ecf1",
+    "name": "m_empty.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_empty.ped",
+    "size": "982",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_empty.ped"
+  },
+  {
+    "hash": "9958b6a3d2829dfd5594def0970999f6",
+    "name": "m_norm.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_norm.ped",
+    "size": "4142",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_norm.ped"
+  },
+  {
+    "hash": "84a716e160facffdbb508a384ef48f85",
+    "name": "m_plyr.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_plyr.ped",
+    "size": "2000",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_plyr.ped"
+  },
+  {
+    "hash": "713ab78353c5487ff75825903451ac75",
+    "name": "m_steal.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_steal.ped",
+    "size": "3663",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_steal.ped"
+  },
+  {
+    "hash": "5190e19b223d726c1844af85d8447727",
+    "name": "m_tough.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_tough.ped",
+    "size": "3980",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_tough.ped"
+  },
+  {
+    "hash": "38d0ab62046670920d728adc48b53957",
+    "name": "m_weak.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/m_weak.ped",
+    "size": "4062",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/m_weak.ped"
+  },
+  {
+    "hash": "e6cd97575f666c3ce7bfd441e1ce4cbb",
+    "name": "RANDOM.grp",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/RANDOM.grp",
+    "size": "4623",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/RANDOM.grp"
+  },
+  {
+    "hash": "9958b6a3d2829dfd5594def0970999f6",
+    "name": "RANDOM.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/RANDOM.ped",
+    "size": "4142",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/RANDOM.ped"
+  },
+  {
+    "hash": "265c7647d04ca1e7bfc93d5227fdb197",
+    "name": "RANDOM2.grp",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/RANDOM2.grp",
+    "size": "4623",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/RANDOM2.grp"
+  },
+  {
+    "hash": "0b925fef379de41f5f4d4bd5ae546f26",
+    "name": "R_Norm.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/R_Norm.ped",
+    "size": "6450",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/R_Norm.ped"
+  },
+  {
+    "hash": "21e002bbae46a2f754399a3c435c8222",
+    "name": "R_Tough.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/R_Tough.ped",
+    "size": "6378",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/R_Tough.ped"
+  },
+  {
+    "hash": "fb440c9a94ffbd3dfa4e15b5a482ef4d",
+    "name": "R_Weak.ped",
+    "path": "/storage/emulated/0/Edgar/data/Decision/Allowed/R_Weak.ped",
+    "size": "6289",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/Allowed/R_Weak.ped"
+  },
+  {
+    "hash": "f4843850f8287bb23c9c04bd769c0561",
+    "name": "PedEvent.txt",
+    "path": "/storage/emulated/0/Edgar/data/Decision/PedEvent.txt",
+    "size": "1298",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/Decision/PedEvent.txt"
+  },
+  {
+    "hash": "6c8761fe78ca60dc80b82d976564bbac",
+    "name": "default.dat",
+    "path": "/storage/emulated/0/Edgar/data/default.dat",
+    "size": "577",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/default.dat"
+  },
+  {
+    "hash": "1da977266ef32c2963a57ba27ff85468",
+    "name": "default.ide",
+    "path": "/storage/emulated/0/Edgar/data/default.ide",
+    "size": "4679",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/default.ide"
+  },
+  {
+    "hash": "3449f2e3885ec5b67d8a5dcbc7f9b340",
+    "name": "fonts.dat",
+    "path": "/storage/emulated/0/Edgar/data/fonts.dat",
+    "size": "3576",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/fonts.dat"
+  },
+  {
+    "hash": "ec0962bd1590dadbe5ace404850c97e4",
+    "name": "furnitur.dat",
+    "path": "/storage/emulated/0/Edgar/data/furnitur.dat",
+    "size": "16480",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/furnitur.dat"
+  },
+  {
+    "hash": "a1515f74292f0870f58b48f32128b37e",
+    "name": "gridref.dat",
+    "path": "/storage/emulated/0/Edgar/data/gridref.dat",
+    "size": "1498",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/gridref.dat"
+  },
+  {
+    "hash": "65c1c78ac0ef831e3c4df63e6c1b34bb",
+    "name": "gta.dat",
+    "path": "/storage/emulated/0/Edgar/data/gta.dat",
+    "size": "1215",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/gta.dat"
+  },
+  {
+    "hash": "e778b5df64e8523e377d3bbe2b806b3a",
+    "name": "handling.cfg",
+    "path": "/storage/emulated/0/Edgar/data/handling.cfg",
+    "size": "64354",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/handling.cfg"
+  },
+  {
+    "hash": "ebee7cb89389eea889db35b1ad01596e",
+    "name": "info.zon",
+    "path": "/storage/emulated/0/Edgar/data/info.zon",
+    "size": "28139",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/info.zon"
+  },
+  {
+    "hash": "63da439615ff91afad7121e2d9854b49",
+    "name": "map.zon",
+    "path": "/storage/emulated/0/Edgar/data/map.zon",
+    "size": "436",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/map.zon"
+  },
+  {
+    "hash": "2954a985fad6f1cd2c96f570d132de3f",
+    "name": "Audiozon.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/Audiozon.ipl",
+    "size": "10802",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/Audiozon.ipl"
+  },
+  {
+    "hash": "9a90da4381a217676a2670d4b2abf35d",
+    "name": "CR1.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR1.ide",
+    "size": "42532",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR1.ide"
+  },
+  {
+    "hash": "3938d76f92c5501618499e697cabf21f",
+    "name": "CR1.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR1.ipl",
+    "size": "103249",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR1.ipl"
+  },
+  {
+    "hash": "523101973fbd0cfaf1a2a3d69e00b0f1",
+    "name": "CR10.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR10.ide",
+    "size": "480",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR10.ide"
+  },
+  {
+    "hash": "b296c7a4d05258faa94289a68ae533f7",
+    "name": "CR10.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR10.ipl",
+    "size": "225292",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR10.ipl"
+  },
+  {
+    "hash": "b1cdac351d537cc31ad60b4f42796ac3",
+    "name": "CR11.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR11.ide",
+    "size": "86246",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR11.ide"
+  },
+  {
+    "hash": "448f7f605c5c2c5331a2588025573a6e",
+    "name": "CR11.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR11.ipl",
+    "size": "191349",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR11.ipl"
+  },
+  {
+    "hash": "b8f7f3f5c137b4a4113f8f349109d116",
+    "name": "CR12.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR12.ide",
+    "size": "14703",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR12.ide"
+  },
+  {
+    "hash": "744e28c729ce2b6cbd25075356512dcd",
+    "name": "CR12.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR12.ipl",
+    "size": "34075",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR12.ipl"
+  },
+  {
+    "hash": "802f1694dbb0eb5ffa6bc3aaa2948754",
+    "name": "CR14.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR14.ide",
+    "size": "6508",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR14.ide"
+  },
+  {
+    "hash": "221c02a7710c14364ff3ca41ff4175b3",
+    "name": "CR14.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR14.ipl",
+    "size": "61756",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR14.ipl"
+  },
+  {
+    "hash": "d809bf821b6142fb42407eef9dc03621",
+    "name": "CR2.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR2.ide",
+    "size": "21943",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR2.ide"
+  },
+  {
+    "hash": "7e31693064dfbf99a72b033c6a3377e1",
+    "name": "CR2.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR2.ipl",
+    "size": "66420",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR2.ipl"
+  },
+  {
+    "hash": "8086381f0ae38fcc1407a652d5aa01c1",
+    "name": "CR3.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR3.ide",
+    "size": "16485",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR3.ide"
+  },
+  {
+    "hash": "afd3c8072926d26e1c1bfe72459350ec",
+    "name": "CR3.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR3.ipl",
+    "size": "65306",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR3.ipl"
+  },
+  {
+    "hash": "e00b9a5e568e1a91559dd25a253337aa",
+    "name": "CR4.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR4.ide",
+    "size": "13624",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR4.ide"
+  },
+  {
+    "hash": "1d05367a01856ea42ee5405214201bab",
+    "name": "CR4.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR4.ipl",
+    "size": "25768",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR4.ipl"
+  },
+  {
+    "hash": "56c3379fd67207ba0dd1cfca06b71c50",
+    "name": "CR5.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR5.ide",
+    "size": "10147",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR5.ide"
+  },
+  {
+    "hash": "6ba52873b3896779c0b9cb19b9f7a113",
+    "name": "CR5.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR5.ipl",
+    "size": "13652",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR5.ipl"
+  },
+  {
+    "hash": "e52f40a8743005013cd362491f7e618f",
+    "name": "CR6.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR6.ide",
+    "size": "3045",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR6.ide"
+  },
+  {
+    "hash": "eace3916f7d023ba0cb37c7c25fa220a",
+    "name": "CR6.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR6.ipl",
+    "size": "50470",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR6.ipl"
+  },
+  {
+    "hash": "e46a13860ed823b404922d79743c36b0",
+    "name": "CR7.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR7.ide",
+    "size": "9124",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR7.ide"
+  },
+  {
+    "hash": "68471cd17946f9c1f0be0f80807f646c",
+    "name": "CR7.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR7.ipl",
+    "size": "84704",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR7.ipl"
+  },
+  {
+    "hash": "91be08fe40357cdb424a25c43765cd69",
+    "name": "CR8.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR8.ide",
+    "size": "68212",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR8.ide"
+  },
+  {
+    "hash": "4d20b0b000219ca2a77dc3020d49920a",
+    "name": "CR8.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR8.ipl",
+    "size": "341125",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR8.ipl"
+  },
+  {
+    "hash": "4d20b0b000219ca2a77dc3020d49920a",
+    "name": "CR8.ipl (Copy).txt",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR8.ipl (Copy).txt",
+    "size": "341125",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR8.ipl (Copy).txt"
+  },
+  {
+    "hash": "2f36cbdbe290d17d8183c7b625a0b4e5",
+    "name": "CR9.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR9.ide",
+    "size": "583",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR9.ide"
+  },
+  {
+    "hash": "6931798a4ce5a663b87e5d69d47c41b4",
+    "name": "CR9.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/CR9.ipl",
+    "size": "312786",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/CR9.ipl"
+  },
+  {
+    "hash": "16be7cffc7bdb548921183a98dd7f56d",
+    "name": "cull.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/cull.ipl",
+    "size": "104318",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/cull.ipl"
+  },
+  {
+    "hash": "81d94ce42fa943f5ccbd24adc9efe85d",
+    "name": "barriers.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/barriers.ide",
+    "size": "1437",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/barriers.ide"
+  },
+  {
+    "hash": "9de585f63c9150fab5dbb9a53e45633e",
+    "name": "dynamic.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/dynamic.ide",
+    "size": "4611",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/dynamic.ide"
+  },
+  {
+    "hash": "1e5480ed0cadec0f389356b406a6701a",
+    "name": "dynamic2.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/dynamic2.ide",
+    "size": "10510",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/dynamic2.ide"
+  },
+  {
+    "hash": "77f56b7f2ef753998b7b9218820ca0e1",
+    "name": "multiobj.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/multiobj.ide",
+    "size": "5020",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/multiobj.ide"
+  },
+  {
+    "hash": "31730d972e734545a1da98868cccecf5",
+    "name": "procobj.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/procobj.ide",
+    "size": "4755",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/procobj.ide"
+  },
+  {
+    "hash": "49b83d2005e9773f96864f7d354d34b2",
+    "name": "vegepart.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/generic/vegepart.ide",
+    "size": "8062",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/generic/vegepart.ide"
+  },
+  {
+    "hash": "10d64d357e191d3b43c6860d9dfeaca7",
+    "name": "gen_int1.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int1.ide",
+    "size": "2747",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int1.ide"
+  },
+  {
+    "hash": "e8f4f2ae4a3d82305558af4e51c03a30",
+    "name": "gen_int1.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int1.ipl",
+    "size": "21074",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int1.ipl"
+  },
+  {
+    "hash": "aea5c61f33c581f249e9c579bafa8067",
+    "name": "gen_int2.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int2.ide",
+    "size": "10941",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int2.ide"
+  },
+  {
+    "hash": "369945c5aa2ad20e60f8e3b846ccc0eb",
+    "name": "gen_int2.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int2.ipl",
+    "size": "1683",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int2.ipl"
+  },
+  {
+    "hash": "0a01babb3cc1e352d3c2ed790591aae7",
+    "name": "gen_int3.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int3.ide",
+    "size": "3252",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int3.ide"
+  },
+  {
+    "hash": "80049514ac84dbe35bc4759b055121c1",
+    "name": "gen_int3.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int3.ipl",
+    "size": "2091",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int3.ipl"
+  },
+  {
+    "hash": "1eaab8d067f9a47b9144aaae4926ea9c",
+    "name": "gen_int4.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int4.ide",
+    "size": "2323",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int4.ide"
+  },
+  {
+    "hash": "265a8c80fa328ce3d92b11fcc1b958df",
+    "name": "gen_int4.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int4.ipl",
+    "size": "1185",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int4.ipl"
+  },
+  {
+    "hash": "f7be4221c27bd94829982353d4ff8e5c",
+    "name": "gen_int5.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int5.ide",
+    "size": "4682",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int5.ide"
+  },
+  {
+    "hash": "0c6cbba41a3d89d07a818af62468ee08",
+    "name": "gen_int5.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_int5.ipl",
+    "size": "2988",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_int5.ipl"
+  },
+  {
+    "hash": "35d649e2b5129c6537e986c14b3151de",
+    "name": "gen_intb.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_intb.ide",
+    "size": "5459",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_intb.ide"
+  },
+  {
+    "hash": "b693919ed5386e7648c5b97f2fdde4c4",
+    "name": "gen_intb.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/gen_intb.ipl",
+    "size": "1626",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/gen_intb.ipl"
+  },
+  {
+    "hash": "e928bb67ce24f8cc18dd68b1d5e77498",
+    "name": "int_cont.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_cont.ide",
+    "size": "385",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_cont.ide"
+  },
+  {
+    "hash": "ec41d41a62984f8c1533b6a49cfbf8d0",
+    "name": "int_cont.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_cont.ipl",
+    "size": "910",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_cont.ipl"
+  },
+  {
+    "hash": "cc097dcf0b6a365be40d8f457c5c6f4c",
+    "name": "int_LA.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_LA.ide",
+    "size": "6004",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_LA.ide"
+  },
+  {
+    "hash": "ba5018e52e2a342212a8247842ca7643",
+    "name": "int_LA.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_LA.ipl",
+    "size": "1312",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_LA.ipl"
+  },
+  {
+    "hash": "329567cede356b5c7858b216079da47b",
+    "name": "int_SF.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_SF.ide",
+    "size": "1260",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_SF.ide"
+  },
+  {
+    "hash": "1685b99b1a02ebe3b5b8fce435b91f53",
+    "name": "int_SF.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_SF.ipl",
+    "size": "1334",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_SF.ipl"
+  },
+  {
+    "hash": "6fb5d89802a4d981162df951af98860c",
+    "name": "int_veg.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_veg.ide",
+    "size": "4684",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_veg.ide"
+  },
+  {
+    "hash": "98469874a96397c0170fb51733ed4ca2",
+    "name": "int_veg.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/int_veg.ipl",
+    "size": "5299",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/int_veg.ipl"
+  },
+  {
+    "hash": "0a9c27da23797d425ee5969dd755d4e6",
+    "name": "propext.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/propext.ide",
+    "size": "2340",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/propext.ide"
+  },
+  {
+    "hash": "d3bfa2f092163517b58b8ceb99c3a2ce",
+    "name": "props.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/props.ide",
+    "size": "26326",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/props.ide"
+  },
+  {
+    "hash": "df44046576a70b5620e5a6074105fa3a",
+    "name": "props2.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/props2.ide",
+    "size": "21174",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/props2.ide"
+  },
+  {
+    "hash": "65b28f8a347a6882c0117624166e0a5d",
+    "name": "savehous.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/savehous.ide",
+    "size": "1724",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/savehous.ide"
+  },
+  {
+    "hash": "c84c8c19febacda84542d6961346405c",
+    "name": "savehous.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/savehous.ipl",
+    "size": "2959",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/savehous.ipl"
+  },
+  {
+    "hash": "22d43645e52e6be84ddb261a36361661",
+    "name": "stadint.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/stadint.ide",
+    "size": "2851",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/stadint.ide"
+  },
+  {
+    "hash": "a85250908b779333f78084877bc3bb43",
+    "name": "stadint.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/interior/stadint.ipl",
+    "size": "6299",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/interior/stadint.ipl"
+  },
+  {
+    "hash": "71bca562b72a3a3f1870a2c92679e06b",
+    "name": "leveldes.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/leveldes.ide",
+    "size": "360",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/leveldes.ide"
+  },
+  {
+    "hash": "4ab31961b14de39f99350ad86e17e0e1",
+    "name": "leveldes.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/leveldes.ipl",
+    "size": "165",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/leveldes.ipl"
+  },
+  {
+    "hash": "8f2f92df10cc5d97243c375498216e10",
+    "name": "levelmap.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/levelmap.ide",
+    "size": "3194",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/levelmap.ide"
+  },
+  {
+    "hash": "0eac6d946c2646afe70edfdaa65793ac",
+    "name": "levelmap.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/levelmap.ipl",
+    "size": "4675",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/levelmap.ipl"
+  },
+  {
+    "hash": "31cd3b397fddb7e6a723350e30b15dc6",
+    "name": "levelxre.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/levelxre.ide",
+    "size": "9897",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/levelxre.ide"
+  },
+  {
+    "hash": "d37e90501b59855c5244564cc2d9183e",
+    "name": "seabed.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/seabed.ide",
+    "size": "12039",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/seabed.ide"
+  },
+  {
+    "hash": "f39f8de5c9a951b6a5c6f2ea68fa735a",
+    "name": "seabed.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/leveldes/seabed.ipl",
+    "size": "23342",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/leveldes/seabed.ipl"
+  },
+  {
+    "hash": "5c25d2f5ff792551e5c517c9d546a690",
+    "name": "occlu.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/occlu.ipl",
+    "size": "1012",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/occlu.ipl"
+  },
+  {
+    "hash": "d14c3051e96195d392a0204d72fef79d",
+    "name": "occluint.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/occluint.ipl",
+    "size": "2338",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/occluint.ipl"
+  },
+  {
+    "hash": "b7dd0fdaf47d136fd643eafa3da248fa",
+    "name": "occluLA.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/occluLA.ipl",
+    "size": "35956",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/occluLA.ipl"
+  },
+  {
+    "hash": "cf67c576afc0be2baf85e4564cf55ce0",
+    "name": "occlusf.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/occlusf.ipl",
+    "size": "16114",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/occlusf.ipl"
+  },
+  {
+    "hash": "b8144851e66820d73761f3eafa614374",
+    "name": "occluveg.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/occluveg.ipl",
+    "size": "17944",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/occluveg.ipl"
+  },
+  {
+    "hash": "3c77d4a9b1023b11ccab85b340f9cc3c",
+    "name": "paths.img",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths.img",
+    "size": "135168",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths.img"
+  },
+  {
+    "hash": "79b45e060c9e4f46507c74d9cd2bfede",
+    "name": "paths.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths.ipl",
+    "size": "2658607",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths.ipl"
+  },
+  {
+    "hash": "1184f4f6d1628c36c29d46b1ea1154ef",
+    "name": "paths2.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths2.ipl",
+    "size": "2292241",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths2.ipl"
+  },
+  {
+    "hash": "75bed5e010da1f00016d13eb16ca2ea0",
+    "name": "paths3.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths3.ipl",
+    "size": "2428066",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths3.ipl"
+  },
+  {
+    "hash": "57a767a0b78ae65856e4b4be41e878d4",
+    "name": "paths4.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths4.ipl",
+    "size": "253014",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths4.ipl"
+  },
+  {
+    "hash": "967e1f9fbaf3f9d38d1e5403b6f12fc0",
+    "name": "paths5.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/paths5.ipl",
+    "size": "457678",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/paths5.ipl"
+  },
+  {
+    "hash": "80850ab49e4e012a72787d12698569a4",
+    "name": "testbed.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/testbed.ide",
+    "size": "54",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/testbed.ide"
+  },
+  {
+    "hash": "aca8a3443a3f0a98c5ebe92316159f9e",
+    "name": "testbed.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/testbed.ipl",
+    "size": "73",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/testbed.ipl"
+  },
+  {
+    "hash": "dff2d45bbc65813764e567e205239bdf",
+    "name": "tunnels.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/tunnels.ipl",
+    "size": "3230",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/tunnels.ipl"
+  },
+  {
+    "hash": "e2b46cf643a966965ea4c25dde63bf15",
+    "name": "u_interiors.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/u_interiors.ide",
+    "size": "8412",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/u_interiors.ide"
+  },
+  {
+    "hash": "3745069ed2b52408d7f26cf1245c07df",
+    "name": "u_interiors.ipl",
+    "path": "/storage/emulated/0/Edgar/data/maps/u_interiors.ipl",
+    "size": "4614",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/u_interiors.ipl"
+  },
+  {
+    "hash": "2e3e832416c60fedc50789a0ec03ecb6",
+    "name": "veh_mods.ide",
+    "path": "/storage/emulated/0/Edgar/data/maps/veh_mods/veh_mods.ide",
+    "size": "7323",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/maps/veh_mods/veh_mods.ide"
+  },
+  {
+    "hash": "497c60ed8c0775a020d1f5526470ae2f",
+    "name": "melee.dat",
+    "path": "/storage/emulated/0/Edgar/data/melee.dat",
+    "size": "6306",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/melee.dat"
+  },
+  {
+    "hash": "5f593d12353934b1dbdfb4275f74ca3a",
+    "name": "object.dat",
+    "path": "/storage/emulated/0/Edgar/data/object.dat",
+    "size": "126788",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/object.dat"
+  },
+  {
+    "hash": "6646d4c86ca4f9ace4da8cf24f7bccdb",
+    "name": "carrec.img",
+    "path": "/storage/emulated/0/Edgar/data/paths/carrec.img",
+    "size": "2357248",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/carrec.img"
+  },
+  {
+    "hash": "03558f4ae40567d4a0e08e399b6ef0a3",
+    "name": "ROADBLOX.DAT",
+    "path": "/storage/emulated/0/Edgar/data/paths/ROADBLOX.DAT",
+    "size": "1304",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/ROADBLOX.DAT"
+  },
+  {
+    "hash": "576a78dd7e95ed06c698a30a78d382e3",
+    "name": "tracks.dat",
+    "path": "/storage/emulated/0/Edgar/data/paths/tracks.dat",
+    "size": "25474",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/tracks.dat"
+  },
+  {
+    "hash": "c380520eb5466a446e34eddb3ec77975",
+    "name": "tracks2.dat",
+    "path": "/storage/emulated/0/Edgar/data/paths/tracks2.dat",
+    "size": "1892",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/tracks2.dat"
+  },
+  {
+    "hash": "2e19a5665860289d4c1dda1247aba3c9",
+    "name": "tracks3.dat",
+    "path": "/storage/emulated/0/Edgar/data/paths/tracks3.dat",
+    "size": "8328",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/tracks3.dat"
+  },
+  {
+    "hash": "d6c1a11167e0e05a5f8cabc7347dbdba",
+    "name": "tracks4.dat",
+    "path": "/storage/emulated/0/Edgar/data/paths/tracks4.dat",
+    "size": "18347",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/paths/tracks4.dat"
+  },
+  {
+    "hash": "efaf3d9663bb76324340871898b34377",
+    "name": "ped.dat",
+    "path": "/storage/emulated/0/Edgar/data/ped.dat",
+    "size": "1276",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/ped.dat"
+  },
+  {
+    "hash": "e58000a108ce072ee9fd4ea78b73544c",
+    "name": "pedgrp.dat",
+    "path": "/storage/emulated/0/Edgar/data/pedgrp.dat",
+    "size": "5792",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/pedgrp.dat"
+  },
+  {
+    "hash": "40dfdba00671f44a870639577fc020d6",
+    "name": "peds.ide",
+    "path": "/storage/emulated/0/Edgar/data/peds.ide",
+    "size": "33401",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/peds.ide"
+  },
+  {
+    "hash": "804ec7b88e0e8a0a2fe9c1d91b1c7be0",
+    "name": "pedstats.dat",
+    "path": "/storage/emulated/0/Edgar/data/pedstats.dat",
+    "size": "3604",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/pedstats.dat"
+  },
+  {
+    "hash": "193b070bd030568f7e564f28d0294cb0",
+    "name": "plants.dat",
+    "path": "/storage/emulated/0/Edgar/data/plants.dat",
+    "size": "9887",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/plants.dat"
+  },
+  {
+    "hash": "1bd9a61ab03ea14bfa835a47b1cc09ce",
+    "name": "popcycle.dat",
+    "path": "/storage/emulated/0/Edgar/data/popcycle.dat",
+    "size": "127108",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/popcycle.dat"
+  },
+  {
+    "hash": "2e057eca66cb8912dbb7d0d0f8a18bb3",
+    "name": "procobj.dat",
+    "path": "/storage/emulated/0/Edgar/data/procobj.dat",
+    "size": "10019",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/procobj.dat"
+  },
+  {
+    "hash": "e13e5296d6acb12fa669fddd8e0a3dd6",
+    "name": "mainv1.scm",
+    "path": "/storage/emulated/0/Edgar/data/script/mainv1.scm",
+    "size": "18398",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/script/mainv1.scm"
+  },
+  {
+    "hash": "9ca906d6a81778735352e4f3df875a8e",
+    "name": "mainv1.txt",
+    "path": "/storage/emulated/0/Edgar/data/script/mainv1.txt",
+    "size": "3690",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/script/mainv1.txt"
+  },
+  {
+    "hash": "6b5b3e3644b648cc55d9b1923de14c5b",
+    "name": "scriptv1.img",
+    "path": "/storage/emulated/0/Edgar/data/script/scriptv1.img",
+    "size": "4096",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/script/scriptv1.img"
+  },
+  {
+    "hash": "29ce78efbe94888810060367d168e0f1",
+    "name": "shopping.dat",
+    "path": "/storage/emulated/0/Edgar/data/shopping.dat",
+    "size": "46875",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/shopping.dat"
+  },
+  {
+    "hash": "1f3bd23a994f32ab43874c327bbfb4af",
+    "name": "ShopUVs.dat",
+    "path": "/storage/emulated/0/Edgar/data/ShopUVs.dat",
+    "size": "30509",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/ShopUVs.dat"
+  },
+  {
+    "hash": "ba8744c81b3c426df936cca3a888e8cf",
+    "name": "statdisp.dat",
+    "path": "/storage/emulated/0/Edgar/data/statdisp.dat",
+    "size": "7292",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/statdisp.dat"
+  },
+  {
+    "hash": "f748dca9113da87daf755f14bef59b3c",
+    "name": "surface.dat",
+    "path": "/storage/emulated/0/Edgar/data/surface.dat",
+    "size": "576",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/surface.dat"
+  },
+  {
+    "hash": "4029b48369a792d72cc6dc224abec9b6",
+    "name": "surfaud.dat",
+    "path": "/storage/emulated/0/Edgar/data/surfaud.dat",
+    "size": "6530",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/surfaud.dat"
+  },
+  {
+    "hash": "10f3587fa06f5be25d71687ab223cd3b",
+    "name": "surfinfo.dat",
+    "path": "/storage/emulated/0/Edgar/data/surfinfo.dat",
+    "size": "28106",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/surfinfo.dat"
+  },
+  {
+    "hash": "0ed4241a6d0755d6657988169fe8a3eb",
+    "name": "timecyc.dat",
+    "path": "/storage/emulated/0/Edgar/data/timecyc.dat",
+    "size": "35625",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/timecyc.dat"
+  },
+  {
+    "hash": "42b670ae42411cb52656fa90762895eb",
+    "name": "TouchDefaultPhone3x2.cfg",
+    "path": "/storage/emulated/0/Edgar/data/TouchDefaultPhone3x2.cfg",
+    "size": "10912",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/TouchDefaultPhone3x2.cfg"
+  },
+  {
+    "hash": "658857467bc37c6a13e7eefaf4c5c68b",
+    "name": "TouchDefaultPhoneWidescreen.cfg",
+    "path": "/storage/emulated/0/Edgar/data/TouchDefaultPhoneWidescreen.cfg",
+    "size": "10924",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/TouchDefaultPhoneWidescreen.cfg"
+  },
+  {
+    "hash": "1a0df71f8bcd137cb5357d589a9d4dae",
+    "name": "TouchDefaultTablet4x3.cfg",
+    "path": "/storage/emulated/0/Edgar/data/TouchDefaultTablet4x3.cfg",
+    "size": "10926",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/TouchDefaultTablet4x3.cfg"
+  },
+  {
+    "hash": "9924d003da23ec5cd56199e334d44127",
+    "name": "TouchDefaultTabletWidescreen.cfg",
+    "path": "/storage/emulated/0/Edgar/data/TouchDefaultTabletWidescreen.cfg",
+    "size": "10923",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/TouchDefaultTabletWidescreen.cfg"
+  },
+  {
+    "hash": "5d795324c5a016735f9db4a657f77d48",
+    "name": "txdcut.ide",
+    "path": "/storage/emulated/0/Edgar/data/txdcut.ide",
+    "size": "478",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/txdcut.ide"
+  },
+  {
+    "hash": "49620c850e672c41a8ab6d9f673d8280",
+    "name": "vehicles.ide",
+    "path": "/storage/emulated/0/Edgar/data/vehicles.ide",
+    "size": "21093",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/vehicles.ide"
+  },
+  {
+    "hash": "4c1471f11fecb25ba92cf341a0e4aa4e",
+    "name": "water.dat",
+    "path": "/storage/emulated/0/Edgar/data/water.dat",
+    "size": "41096",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/water.dat"
+  },
+  {
+    "hash": "6c0d5555eaacff026ca83326c49a69ea",
+    "name": "water1.dat",
+    "path": "/storage/emulated/0/Edgar/data/water1.dat",
+    "size": "60063",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/water1.dat"
+  },
+  {
+    "hash": "e2036d74c445992aaa52f6552cf44f4c",
+    "name": "weapon.dat",
+    "path": "/storage/emulated/0/Edgar/data/weapon.dat",
+    "size": "11602",
+    "url": "https://cdn-space.spacerp.ru/files/build1/data/weapon.dat"
+  },
+  {
+    "hash": "c226a894ba7912b24af90b0e73d99125",
+    "name": "peds.col",
+    "path": "/storage/emulated/0/Edgar/models/coll/peds.col",
+    "size": "21477",
+    "url": "https://cdn-space.spacerp.ru/files/build1/models/coll/peds.col"
+  },
+  {
+    "hash": "3adf49daa95933ca13619b76f0e4e13c",
+    "name": "vehicles.col",
+    "path": "/storage/emulated/0/Edgar/models/coll/vehicles.col",
+    "size": "1096",
+    "url": "https://cdn-space.spacerp.ru/files/build1/models/coll/vehicles.col"
+  },
+  {
+    "hash": "86c4d852c8d2be8aada1a98389bec7a7",
+    "name": "weapons.col",
+    "path": "/storage/emulated/0/Edgar/models/coll/weapons.col",
+    "size": "560",
+    "url": "https://cdn-space.spacerp.ru/files/build1/models/coll/weapons.col"
+  },
+  {
+    "hash": "0581a3f1cad9ff79d9b54b68063f971f",
+    "name": "effects.fxp",
+    "path": "/storage/emulated/0/Edgar/models/effects.fxp",
+    "size": "646501",
+    "url": "https://cdn-space.spacerp.ru/files/build1/models/effects.fxp"
+  },
+  {
+    "hash": "246e861138764a0ca1e4381fefa0329c",
+    "name": "arial-b.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/arial-b.ttf",
+    "size": "199764",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/arial-b.ttf"
+  },
+  {
+    "hash": "8d53aa901603a5e1a09aeed70fb8d9e1",
+    "name": "arial.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/arial.ttf",
+    "size": "352224",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/arial.ttf"
+  },
+  {
+    "hash": "f77ff2cf889160c45b816a2cb7e3830f",
+    "name": "arial1.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/arial1.ttf",
+    "size": "367112",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/arial1.ttf"
+  },
+  {
+    "hash": "8d53aa901603a5e1a09aeed70fb8d9e1",
+    "name": "arial_bold.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/arial_bold.ttf",
+    "size": "352224",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/arial_bold.ttf"
+  },
+  {
+    "hash": "f2ff3b074ee41f5fd66bad027e9fd42f",
+    "name": "flame_speed.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/flame_speed.ttf",
+    "size": "261732",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/flame_speed.ttf"
+  },
+  {
+    "hash": "61f3160df60e7e21a60958a2d1e5ce35",
+    "name": "Geometria-Bold.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/Geometria-Bold.ttf",
+    "size": "129796",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/Geometria-Bold.ttf"
+  },
+  {
+    "hash": "37f8275fece41478b353e1057c5c9470",
+    "name": "Geometria-Medium.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/Geometria-Medium.ttf",
+    "size": "131496",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/Geometria-Medium.ttf"
+  },
+  {
+    "hash": "565605f6b32c8abea81547aa61449343",
+    "name": "gtaweap3.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/gtaweap3.ttf",
+    "size": "104004",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/gtaweap3.ttf"
+  },
+  {
+    "hash": "663a31b5d20fe576c3681ec1c343c480",
+    "name": "panton-bold.otf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/panton-bold.otf",
+    "size": "148840",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/panton-bold.otf"
+  },
+  {
+    "hash": "2dbb73f6126dd102b7d75ac5bf718589",
+    "name": "sampaux3.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/sampaux3.ttf",
+    "size": "11544",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/sampaux3.ttf"
+  },
+  {
+    "hash": "2dbb73f6126dd102b7d75ac5bf718589",
+    "name": "sampaux3.ttfg",
+    "path": "/storage/emulated/0/Edgar/SAMP/fonts/sampaux3.ttfg",
+    "size": "11544",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/fonts/sampaux3.ttfg"
+  },
+  {
+    "hash": "0a76cc1caebd8ec97c5d02b8ff01c0c0",
+    "name": "gta.dat",
+    "path": "/storage/emulated/0/Edgar/SAMP/gta.dat",
+    "size": "1277",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/gta.dat"
+  },
+  {
+    "hash": "1b5d448211e61f85ce0c767ab1d8bace",
+    "name": "handling.cfg",
+    "path": "/storage/emulated/0/Edgar/SAMP/handling.cfg",
+    "size": "58963",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/handling.cfg"
+  },
+  {
+    "hash": "f658dba3bec785cfb02b12c1ab04ed8a",
+    "name": "main.scm",
+    "path": "/storage/emulated/0/Edgar/SAMP/main.scm",
+    "size": "19703",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/main.scm"
+  },
+  {
+    "hash": "9ca906d6a81778735352e4f3df875a8e",
+    "name": "main.txt",
+    "path": "/storage/emulated/0/Edgar/SAMP/main.txt",
+    "size": "3690",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/main.txt"
+  },
+  {
+    "hash": "180d7067070aeddf304f422e2f26fc6a",
+    "name": "outfit.dat",
+    "path": "/storage/emulated/0/Edgar/SAMP/outfit.dat",
+    "size": "5113",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/outfit.dat"
+  },
+  {
+    "hash": "eca9d8b992e009bcb04fa63ebd0bffa0",
+    "name": "peds.ide",
+    "path": "/storage/emulated/0/Edgar/SAMP/peds.ide",
+    "size": "37056",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/peds.ide"
+  },
+  {
+    "hash": "5bc7f65783e3f66c1f34487d2f2f1822",
+    "name": "ru_font.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/plates/ru_font.ttf",
+    "size": "233076",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/plates/ru_font.ttf"
+  },
+  {
+    "hash": "8bd73e582aed01f1fc5e125d73dda23a",
+    "name": "ua_font.ttf",
+    "path": "/storage/emulated/0/Edgar/SAMP/plates/ua_font.ttf",
+    "size": "233176",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/plates/ua_font.ttf"
+  },
+  {
+    "hash": "d950077292989263809ba27758178e2f",
+    "name": "SAMP.ide",
+    "path": "/storage/emulated/0/Edgar/SAMP/SAMP.ide",
+    "size": "87873",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/SAMP.ide"
+  },
+  {
+    "hash": "6b5b3e3644b648cc55d9b1923de14c5b",
+    "name": "script.img",
+    "path": "/storage/emulated/0/Edgar/SAMP/script.img",
+    "size": "4096",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/script.img"
+  },
+  {
+    "hash": "20c72270c1c17ee07639c62042ef37a6",
+    "name": "settings.ini",
+    "path": "/storage/emulated/0/Edgar/SAMP/settings.ini",
+    "size": "2073",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/settings.ini"
+  },
+  {
+    "hash": "7cca9431a295eee7894a99e186b1ddca",
+    "name": "tracks2.dat",
+    "path": "/storage/emulated/0/Edgar/SAMP/tracks2.dat",
+    "size": "1",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/tracks2.dat"
+  },
+  {
+    "hash": "7cca9431a295eee7894a99e186b1ddca",
+    "name": "tracks4.dat",
+    "path": "/storage/emulated/0/Edgar/SAMP/tracks4.dat",
+    "size": "1",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/tracks4.dat"
+  },
+  {
+    "hash": "dc4047f74894e72ef1135314ea723db7",
+    "name": "vehicleAudioSettings.cfg",
+    "path": "/storage/emulated/0/Edgar/SAMP/vehicleAudioSettings.cfg",
+    "size": "29040",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/vehicleAudioSettings.cfg"
+  },
+  {
+    "hash": "90f02e8b697bf68b17623722357cfc7e",
+    "name": "vehicles.ide",
+    "path": "/storage/emulated/0/Edgar/SAMP/vehicles.ide",
+    "size": "23297",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/vehicles.ide"
+  },
+  {
+    "hash": "c5ed4afb92d86e89ce7fdab2f69d7c43",
+    "name": "WEAPON.dat",
+    "path": "/storage/emulated/0/Edgar/SAMP/WEAPON.dat",
+    "size": "11585",
+    "url": "https://cdn-space.spacerp.ru/files/build1/SAMP/WEAPON.dat"
+  },
+  {
+    "hash": "fdeccdfc96d7dd6a4c5536fa1f4ab45c",
+    "name": "gta3.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.dxt.dat",
+    "size": "306715356",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.dxt.dat"
+  },
+  {
+    "hash": "3330b8a676351e6e93562c0fa446edbf",
+    "name": "gta3.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.dxt.tmb",
+    "size": "517636",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.dxt.tmb"
+  },
+  {
+    "hash": "577d4d0cbe7d73aaa06a44cf67b2bf56",
+    "name": "gta3.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.dxt.toc",
+    "size": "32496",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.dxt.toc"
+  },
+  {
+    "hash": "8cba616e8141f0943b7a6decb74d953a",
+    "name": "gta3.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.txt",
+    "size": "475271",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.txt"
+  },
+  {
+    "hash": "a65197295630256f7b4cffd918e87385",
+    "name": "gta3.unc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.unc.dat",
+    "size": "43343318",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.unc.dat"
+  },
+  {
+    "hash": "048539532d0e1d364923738565acef96",
+    "name": "gta3.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.unc.tmb",
+    "size": "2099492",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.unc.tmb"
+  },
+  {
+    "hash": "620f0b67a91f7f74151bc5be745b7110",
+    "name": "gta3.unc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3/gta3.unc.toc",
+    "size": "27140",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3/gta3.unc.toc"
+  },
+  {
+    "hash": "639d6dfc72757582ee3c5b1c94abd561",
+    "name": "gta3.img",
+    "path": "/storage/emulated/0/Edgar/texdb/gta3.img",
+    "size": "648009728",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta3.img"
+  },
+  {
+    "hash": "0638d7154b227d5ff3ebed5e195b6ca4",
+    "name": "gta_int.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int/gta_int.dxt.dat",
+    "size": "185342996",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int/gta_int.dxt.dat"
+  },
+  {
+    "hash": "2aa55b685ed3e9f457a821c0821b15e7",
+    "name": "gta_int.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int/gta_int.dxt.tmb",
+    "size": "588016",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int/gta_int.dxt.tmb"
+  },
+  {
+    "hash": "d224fa8d7739d5b7ff11a4ea8a1a8105",
+    "name": "gta_int.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int/gta_int.dxt.toc",
+    "size": "41908",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int/gta_int.dxt.toc"
+  },
+  {
+    "hash": "e7fd6af7e6b5fe8244c852eac66fab41",
+    "name": "gta_int.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int/gta_int.txt",
+    "size": "616677",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int/gta_int.txt"
+  },
+  {
+    "hash": "11d55e6122b3a3f4740b8e2f35c2c44a",
+    "name": "gta_int.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int/gta_int.unc.tmb",
+    "size": "2845552",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int/gta_int.unc.tmb"
+  },
+  {
+    "hash": "8da94b612dfaca9494e268bb3612274e",
+    "name": "gta_int.img",
+    "path": "/storage/emulated/0/Edgar/texdb/gta_int.img",
+    "size": "295522304",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gta_int.img"
+  },
+  {
+    "hash": "4e45527dcb77312d0c53115783f345ec",
+    "name": "gui.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.dxt.dat",
+    "size": "59049566",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.dxt.dat"
+  },
+  {
+    "hash": "a67f2c9d28f17ff52062d15945840ca0",
+    "name": "gui.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.dxt.tmb",
+    "size": "5376",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.dxt.tmb"
+  },
+  {
+    "hash": "c97e82d402bdb13f8e228fd3e5dcb8b1",
+    "name": "gui.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.dxt.toc",
+    "size": "76",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.dxt.toc"
+  },
+  {
+    "hash": "4e45527dcb77312d0c53115783f345ec",
+    "name": "gui.etc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.etc.dat",
+    "size": "59049566",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.etc.dat"
+  },
+  {
+    "hash": "a67f2c9d28f17ff52062d15945840ca0",
+    "name": "gui.etc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.etc.tmb",
+    "size": "5376",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.etc.tmb"
+  },
+  {
+    "hash": "c97e82d402bdb13f8e228fd3e5dcb8b1",
+    "name": "gui.etc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.etc.toc",
+    "size": "76",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.etc.toc"
+  },
+  {
+    "hash": "4e45527dcb77312d0c53115783f345ec",
+    "name": "gui.pvr.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.pvr.dat",
+    "size": "59049566",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.pvr.dat"
+  },
+  {
+    "hash": "a67f2c9d28f17ff52062d15945840ca0",
+    "name": "gui.pvr.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.pvr.tmb",
+    "size": "5376",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.pvr.tmb"
+  },
+  {
+    "hash": "c97e82d402bdb13f8e228fd3e5dcb8b1",
+    "name": "gui.pvr.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.pvr.toc",
+    "size": "76",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.pvr.toc"
+  },
+  {
+    "hash": "a61dbd05c293fa73ed5213905a5f5cf9",
+    "name": "gui.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.txt",
+    "size": "1159",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.txt"
+  },
+  {
+    "hash": "620f0b67a91f7f74151bc5be745b7110",
+    "name": "gui.unc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.unc.dat",
+    "size": "0",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.unc.dat"
+  },
+  {
+    "hash": "f2b7a078822990ff3e5e8555828adbd6",
+    "name": "gui.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.unc.tmb",
+    "size": "5024",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.unc.tmb"
+  },
+  {
+    "hash": "620f0b67a91f7f74151bc5be745b7110",
+    "name": "gui.unc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/gui/gui.unc.toc",
+    "size": "4",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/gui/gui.unc.toc"
+  },
+  {
+    "hash": "526456ad5e4a2e076c4e6730cdc23107",
+    "name": "menu.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.dxt.dat",
+    "size": "7799478",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.dxt.dat"
+  },
+  {
+    "hash": "7fb9eec27aba84739f1b699c532d0b34",
+    "name": "menu.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.dxt.tmb",
+    "size": "860",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.dxt.tmb"
+  },
+  {
+    "hash": "ec766065c106625db5c619aa41a4e643",
+    "name": "menu.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.dxt.toc",
+    "size": "176",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.dxt.toc"
+  },
+  {
+    "hash": "0ac255f7fa81bfc645197869939eaa24",
+    "name": "menu.etc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.etc.dat",
+    "size": "10822324",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.etc.dat"
+  },
+  {
+    "hash": "7fb9eec27aba84739f1b699c532d0b34",
+    "name": "menu.etc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.etc.tmb",
+    "size": "860",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.etc.tmb"
+  },
+  {
+    "hash": "d79b06290d3b0c00bb5f0c0aecb7bf88",
+    "name": "menu.etc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.etc.toc",
+    "size": "176",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.etc.toc"
+  },
+  {
+    "hash": "0ac255f7fa81bfc645197869939eaa24",
+    "name": "menu.pvr.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.pvr.dat",
+    "size": "10822324",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.pvr.dat"
+  },
+  {
+    "hash": "7fb9eec27aba84739f1b699c532d0b34",
+    "name": "menu.pvr.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.pvr.tmb",
+    "size": "860",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.pvr.tmb"
+  },
+  {
+    "hash": "d79b06290d3b0c00bb5f0c0aecb7bf88",
+    "name": "menu.pvr.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.pvr.toc",
+    "size": "176",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.pvr.toc"
+  },
+  {
+    "hash": "c74e4d198092c2b918d2de576c8331b1",
+    "name": "menu.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.txt",
+    "size": "3342",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.txt"
+  },
+  {
+    "hash": "7fb9eec27aba84739f1b699c532d0b34",
+    "name": "menu.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/menu/menu.unc.tmb",
+    "size": "860",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/menu/menu.unc.tmb"
+  },
+  {
+    "hash": "d7a3252f52f386062c2c9ec82b2dd771",
+    "name": "mobile.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/mobile/mobile.dxt.dat",
+    "size": "43288604",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/mobile/mobile.dxt.dat"
+  },
+  {
+    "hash": "cbcf8002f66b707af04d82d574e9343b",
+    "name": "mobile.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/mobile/mobile.dxt.tmb",
+    "size": "33232",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/mobile/mobile.dxt.tmb"
+  },
+  {
+    "hash": "dfe9648a5574485abc69fd9b0b9742df",
+    "name": "mobile.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/mobile/mobile.dxt.toc",
+    "size": "804",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/mobile/mobile.dxt.toc"
+  },
+  {
+    "hash": "90c13eee76a4811d7d8b0722c772e10b",
+    "name": "mobile.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/mobile/mobile.txt",
+    "size": "13209",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/mobile/mobile.txt"
+  },
+  {
+    "hash": "b36a688552265ae153bab7756035bfb1",
+    "name": "player.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/player/player.dxt.dat",
+    "size": "6569414",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/player/player.dxt.dat"
+  },
+  {
+    "hash": "6e4d722905351c1e0bc81b0ddf720852",
+    "name": "player.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/player/player.dxt.tmb",
+    "size": "6940",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/player/player.dxt.tmb"
+  },
+  {
+    "hash": "87fc3fc3f381a919d969df16a76ed210",
+    "name": "player.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/player/player.dxt.toc",
+    "size": "1580",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/player/player.dxt.toc"
+  },
+  {
+    "hash": "04cb84452e8f95bf06c36c5fde1de2aa",
+    "name": "player.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/player/player.txt",
+    "size": "27810",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/player/player.txt"
+  },
+  {
+    "hash": "04209e4d50c1c16e319d85b4b04871b8",
+    "name": "player.img",
+    "path": "/storage/emulated/0/Edgar/texdb/player.img",
+    "size": "16412672",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/player.img"
+  },
+  {
+    "hash": "d14a141de213742282b69f2d89fad529",
+    "name": "radar.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/radar/radar.dxt.dat",
+    "size": "1103010",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/radar/radar.dxt.dat"
+  },
+  {
+    "hash": "2f91e22b7d7187122238ddf973abe254",
+    "name": "radar.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/radar/radar.dxt.tmb",
+    "size": "816",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/radar/radar.dxt.tmb"
+  },
+  {
+    "hash": "410c8bc945342023f89b76a2bc471488",
+    "name": "radar.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/radar/radar.dxt.toc",
+    "size": "20",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/radar/radar.dxt.toc"
+  },
+  {
+    "hash": "d73c841601769a50d5a8fed5da7eee32",
+    "name": "radar.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/radar/radar.txt",
+    "size": "296",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/radar/radar.txt"
+  },
+  {
+    "hash": "09bc26673820ceb9acba46a82b7a55e4",
+    "name": "samp.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.dxt.dat",
+    "size": "11991740",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.dxt.dat"
+  },
+  {
+    "hash": "ffafd1afe68b4b1630b42de69c6aa7b8",
+    "name": "samp.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.dxt.tmb",
+    "size": "19972",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.dxt.tmb"
+  },
+  {
+    "hash": "e482a9c27693f251a007c73594ffceb6",
+    "name": "samp.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.dxt.toc",
+    "size": "3876",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.dxt.toc"
+  },
+  {
+    "hash": "f0fd61eccb6345d90385ca1d773231a0",
+    "name": "samp.etc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.etc.dat",
+    "size": "12219288",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.etc.dat"
+  },
+  {
+    "hash": "ffafd1afe68b4b1630b42de69c6aa7b8",
+    "name": "samp.etc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.etc.tmb",
+    "size": "19972",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.etc.tmb"
+  },
+  {
+    "hash": "7d34168ef15bff1a750b212b7a617d7f",
+    "name": "samp.etc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.etc.toc",
+    "size": "3876",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.etc.toc"
+  },
+  {
+    "hash": "061c22dbb8ff4f5a5ad2fc0b38bb1327",
+    "name": "samp.pvr.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.pvr.dat",
+    "size": "11976026",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.pvr.dat"
+  },
+  {
+    "hash": "ffafd1afe68b4b1630b42de69c6aa7b8",
+    "name": "samp.pvr.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.pvr.tmb",
+    "size": "19972",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.pvr.tmb"
+  },
+  {
+    "hash": "ce60846c52e6174a45c17fb203aae126",
+    "name": "samp.pvr.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.pvr.toc",
+    "size": "3876",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.pvr.toc"
+  },
+  {
+    "hash": "7e80b66ce49cf245fdb09f61af656480",
+    "name": "samp.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.txt",
+    "size": "57916",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.txt"
+  },
+  {
+    "hash": "4f0d50b8070e0f349a71f57bf197e37c",
+    "name": "samp.unc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.unc.dat",
+    "size": "1003678",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.unc.dat"
+  },
+  {
+    "hash": "4b20a9562db05661395c9014e0ffee8b",
+    "name": "samp.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.unc.tmb",
+    "size": "21316",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.unc.tmb"
+  },
+  {
+    "hash": "d0236306697a9af44ebfb8f5702a7305",
+    "name": "samp.unc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/samp/samp.unc.toc",
+    "size": "3848",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp/samp.unc.toc"
+  },
+  {
+    "hash": "d950077292989263809ba27758178e2f",
+    "name": "SAMP.ide",
+    "path": "/storage/emulated/0/Edgar/texdb/SAMP.ide",
+    "size": "87873",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/SAMP.ide"
+  },
+  {
+    "hash": "d85c8519ff9bd80f4aa0d0d3fc8b5d92",
+    "name": "samp.img",
+    "path": "/storage/emulated/0/Edgar/texdb/samp.img",
+    "size": "34783232",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/samp.img"
+  },
+  {
+    "hash": "550796c67b40489a7bad266a8d27f549",
+    "name": "SAMP.ipl",
+    "path": "/storage/emulated/0/Edgar/texdb/SAMP.ipl",
+    "size": "2291",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/SAMP.ipl"
+  },
+  {
+    "hash": "e189f93a920e1a3a50b102e7135a20b0",
+    "name": "SAMPCOL.img",
+    "path": "/storage/emulated/0/Edgar/texdb/SAMPCOL.img",
+    "size": "4257792",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/SAMPCOL.img"
+  },
+  {
+    "hash": "4a8d5822aa9aaac967b80cc0b219baec",
+    "name": "txd.360.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.360.dat",
+    "size": "7625578",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.360.dat"
+  },
+  {
+    "hash": "65f51e7e721b90a9d3350cd73173039d",
+    "name": "txd.360.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.360.tmb",
+    "size": "31028",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.360.tmb"
+  },
+  {
+    "hash": "367bfec69b87900deae7dc1a618a11c8",
+    "name": "txd.360.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.360.toc",
+    "size": "2376",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.360.toc"
+  },
+  {
+    "hash": "6ee5dd37e786a5a8eadda17a42caa867",
+    "name": "txd.dxt.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.dxt.dat",
+    "size": "86587928",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.dxt.dat"
+  },
+  {
+    "hash": "943dd25cb8ed8c73895a52e2e743c3e8",
+    "name": "txd.dxt.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.dxt.tmb",
+    "size": "87452",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.dxt.tmb"
+  },
+  {
+    "hash": "1efa9c0bbed4d0f77d66b5ad46868bc8",
+    "name": "txd.dxt.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.dxt.toc",
+    "size": "2984",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.dxt.toc"
+  },
+  {
+    "hash": "91304827ae581938cf3824cb9a6366ca",
+    "name": "txd.etc.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.etc.dat",
+    "size": "88026006",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.etc.dat"
+  },
+  {
+    "hash": "f462ce6e6ae118db48c16afdceed3503",
+    "name": "txd.etc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.etc.tmb",
+    "size": "102236",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.etc.tmb"
+  },
+  {
+    "hash": "6c289199db63b9c50ea4004ef8ca0c66",
+    "name": "txd.etc.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.etc.toc",
+    "size": "2984",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.etc.toc"
+  },
+  {
+    "hash": "f3435056a291490dda9289925d1eb84c",
+    "name": "txd.pvr.dat",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.pvr.dat",
+    "size": "86490718",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.pvr.dat"
+  },
+  {
+    "hash": "ea87b6cd140dd81349134de17046c4c6",
+    "name": "txd.pvr.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.pvr.tmb",
+    "size": "82652",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.pvr.tmb"
+  },
+  {
+    "hash": "f76a53a68534296a5438b7ce0da98757",
+    "name": "txd.pvr.toc",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.pvr.toc",
+    "size": "2984",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.pvr.toc"
+  },
+  {
+    "hash": "f8217603319c460cd10b790da4c83531",
+    "name": "txd.txt",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.txt",
+    "size": "52714",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.txt"
+  },
+  {
+    "hash": "0ff8ef2d0308d2084b676f3a52d8e227",
+    "name": "txd.unc.tmb",
+    "path": "/storage/emulated/0/Edgar/texdb/txd/txd.unc.tmb",
+    "size": "144732",
+    "url": "https://cdn-space.spacerp.ru/files/build1/texdb/txd/txd.unc.tmb"
+  },
+  {
+    "hash": "e78dcf5f45f5c83e4a6276291dd4d257",
+    "name": "Adjustable.cfg",
+    "path": "/storage/emulated/0/Edgar/Adjustable.cfg",
+    "size": "426",
+    "url": "https://cdn-space.spacerp.ru/files/build1/Adjustable.cfg"
+  }
+]

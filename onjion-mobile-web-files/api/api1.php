@@ -3,7 +3,7 @@
 	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
 	"launcher_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/launcher_onjion.apk",
 	"launcher_name": "/launcher_onjion.apk",
-	"isTest": false,
+	"isTest": true,
 	"test_api": false,
     "api": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/main.json?edgar=1829top09",
 	"archives": [

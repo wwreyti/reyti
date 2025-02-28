@@ -95,7 +95,7 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/models"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/SPACE"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/ONJION"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/anim"

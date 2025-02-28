@@ -112,22 +112,22 @@
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_config.zip?edgar=1829top09",
 			"paths": [
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Adjustable.cfg"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/Adjustable.cfg"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/spa_ce.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/spa_ce.set"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/SPACE10.b"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/SPACE10.b"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/spacetelem.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/spacetelem.set"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/stream.ini"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/stream.ini"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/version.txt"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/version.txt"
 				}
 			]
         }

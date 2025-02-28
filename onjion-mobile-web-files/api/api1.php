@@ -8,7 +8,7 @@
     "api": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/main.json?edgar=1829top09",
 	"archives": [
         {
-            "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
+            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/archive_txd1.zip",
             "size": 545036062,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",

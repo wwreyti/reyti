@@ -115,13 +115,13 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/Adjustable.cfg"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/onjion_m.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/gta_sa.set"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/ONJION.b"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/GTASAMP10.b"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/onjiontelem.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/gtasatelem.set"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/stream.ini"

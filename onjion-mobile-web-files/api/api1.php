@@ -5,13 +5,13 @@
 	"launcher_name": "/launcher_onjion.apk",
 	"isTest": false,
 	"test_api": false,
-    "api": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/main.json?edgar=1829top09",
+	"api": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/main.json?edgar=1829top09",
 	"archives": [
-        {
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
+		{
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/archive_txd1.zip",
-            "size": 545036062,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",
+			"size": 545036062,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/gta_int"
@@ -20,14 +20,13 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/gta3"
 				}
 			]
-        },
+		},
 		{
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/archive_txd2.zip",
-            "size": 185915466,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd2.zip?edgar=1829top09",
+			"size": 185915466,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd2.zip?edgar=1829top09",
 			"paths": [
-				
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/gui"
 				},
@@ -50,12 +49,12 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/txd"
 				}
 			]
-        },
+		},
 		{
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/archive_img1.zip",
-            "size": 356608000,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img1.zip?edgar=1829top09",
+			"size": 356608000,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img1.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/gta_int.img"
@@ -70,23 +69,23 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/SAMPCOL.img"
 				}
 			]
-        },
+		},
 		{
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/archive_img2.zip",
-            "size": 687067136,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img2.zip?edgar=1829top09",
+			"size": 687067136,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img2.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/texdb/gta3.img"
 				}
 			]
-        },
-        {
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files",
+		},
+		{
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/archive_lite.zip",
-            "size": 111827652,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_lite.zip?edgar=1829top09",
+			"size": 111827652,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_lite.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/data"
@@ -104,12 +103,12 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/audio"
 				}
 			]
-        },
-        {
-            "type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files",
+		},
+		{
+			"type": "/storage/emulated/0/Android/data/ru.onjion.mobile/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/archive_config.zip",
-            "size": 131403,
-            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_config.zip?edgar=1829top09",
+			"size": 131403,
+			"urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_config.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/Adjustable.cfg"
@@ -130,8 +129,7 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/version.txt"
 				}
 			]
-        }
-    ],
-	"deleted": [
-	]
+		}
+	],
+	"deleted": []
 }

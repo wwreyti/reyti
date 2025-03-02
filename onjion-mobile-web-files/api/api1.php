@@ -115,13 +115,13 @@
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/Adjustable.cfg"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/spa_ce.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/onjion_m.set"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/SPACE10.b"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/ONJION10.b"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/spacetelem.set"
+					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/onjiontelem.set"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.onjion.mobile/files/stream.ini"

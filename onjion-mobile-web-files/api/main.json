@@ -1,10 +1,10 @@
 {
-	"servers": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/Faq.php?edgar=1829top09",
-	"createCharacter": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/Requests/IsAcc.php?edgar=1829top09",
-    "skinsCDN": "https://wwreyti.github.io/reyti/onjion-mobile-web-files/api/images/skin_"
+	"servers": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/images/skin_"
 }

@@ -1,7 +1,14 @@
 <?php
 
 session_start();
-require_once 'https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/connect.php';
+$url = 'https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/connect.php';
+$localFile = 'connect.php';
+
+// Скачиваем файл
+file_put_contents($localFile, file_get_contents($url));
+
+// Подключаем файл
+require_once $localFile;
 
 if (!isset($_POST['nick'], $_POST['sex'], $_POST['skin'])) {
     $response = [

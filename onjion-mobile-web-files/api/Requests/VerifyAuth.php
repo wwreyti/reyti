@@ -3,7 +3,14 @@
 $randomCode = mt_rand(10000, 99999);
 //echo $randomCode;
 
-require_once('auth/phpmailer/PHPMailerAutoload.php');
+$url = 'https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/auth/phpmailer/PHPMailerAutoload.php';
+$localFile = 'connect.php';
+
+// Скачиваем файл
+file_put_contents($localFile, file_get_contents($url));
+
+// Подключаем файл
+require_once $localFile;
 $mail = new PHPMailer;
 $mail->CharSet = 'utf-8';
 

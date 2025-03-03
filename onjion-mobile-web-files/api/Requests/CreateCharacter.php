@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-require_once 'vendor/connect.php';
+require_once 'https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/connect.php';
 
 if (!isset($_POST['nick'], $_POST['sex'], $_POST['skin'])) {
     $response = [

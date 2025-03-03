@@ -1,5 +1,12 @@
 <?php
-    require_once "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/rb.php";
+$url = 'https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/rb.php';
+$localFile = 'rb.php';
+
+// Скачиваем файл
+file_put_contents($localFile, file_get_contents($url));
+
+// Подключаем файл
+require_once $localFile;
     // localhost менять на хост
     // server1 менять на название бд(mysql)
     // root менять на пользователя

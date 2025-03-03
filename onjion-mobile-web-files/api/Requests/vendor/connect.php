@@ -1,5 +1,5 @@
 <?php
-    require_once "rb.php";
+    require_once "https://raw.githubusercontent.com/wwreyti/reyti/main/onjion-mobile-web-files/api/Requests/vendor/rb.php";
     // localhost менять на хост
     // server1 менять на название бд(mysql)
     // root менять на пользователя
